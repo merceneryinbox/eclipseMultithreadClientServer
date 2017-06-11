@@ -15,7 +15,6 @@ import java.sql.SQLException;
  */
 public class PostgresTester {
 
-	
 	/**
 	 * @param args
 	 */
